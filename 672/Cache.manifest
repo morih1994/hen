@@ -1,0 +1,15 @@
+CACHE MANIFEST 
+# v2.5.5 Self-Host 
+
+cache.html
+exploit.js
+goldhen21.js
+helpers.js
+index.html
+jb.js
+malloc.js
+mira.js
+netcat.js
+rop.js
+syscalls.js
+syscalls2.js
