@@ -2,9 +2,9 @@ CACHE MANIFEST
 # v2.5.5 Self-Host 
 
 cache.html
-goldhen21.js
 index.html
 int64.js
 kexploit.js
+payload.js
 rop.js
 webkit.js
